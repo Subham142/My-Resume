@@ -227,6 +227,14 @@ section:nth-child(2n + 1) {
 	background-color: #d1008b;
 }
 
+.color10 {
+	background-color: #349eff;
+}
+.color11 {
+	background-color: #08234f;
+}
+
+
 .skill-progress {
 	width: 13rem;
 	background-color: darkgrey;
